@@ -1,14 +1,10 @@
 {
-  "name": "@its-huzi-18/cli-number-guessing",
-  "version": "1.0.0",
+  "name": "h2z1a-cli-number-guessing",
+  "version": "1.0.2",
   "description": "Building number guesser",
   "main": "index.js",
   "type": "module",
-  "bin": "index .js",
-  "publishConfig": {
-    "access": "public"
-  },
-
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
